@@ -1,0 +1,17 @@
+		**WELCOME CUSTOMER**
+
+Bill Number: 715
+Customer Name: 
+Customer phone Number: 
+==================================================Product		Quantity		Price
+==================================================
+Hair Spary		1		150 Rs
+Oil		1		120 Rs
+Sprite		1		120 Rs
+==================================================
+Cosmetic Tax				18.0 Rs
+Grocery Tax				6.0 Rs
+Drinks Tax				8.4 Rs
+
+ Total-Bill				422.4
+==================================================

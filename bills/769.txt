@@ -1,0 +1,17 @@
+		**WELCOME CUSTOMER**
+
+Bill Number: 769
+Customer Name: veena
+Customer phone Number: 8765434567
+==================================================Product		Quantity		Price
+==================================================
+Bath Soap		1		20 Rs
+Sugar		1		140 Rs
+Frooti		1		140 Rs
+==================================================
+Cosmetic Tax				2.4 Rs
+Grocery Tax				7.0 Rs
+Drinks Tax				9.8 Rs
+
+ Total-Bill				319.2
+==================================================

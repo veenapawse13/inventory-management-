@@ -1,0 +1,123 @@
+2025-04-05 09:44:48.079 [warning] [Window] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-05 09:44:48.079 [warning] [Window] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-05 09:44:48.079 [warning] [Window] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-05 09:44:48.487 [info] [Views] Added views:workbench.panel.chat.view.copilot in workbench.panel.chat
+2025-04-05 09:44:48.487 [info] [Views] Added views:outline in workbench.view.explorer
+2025-04-05 09:44:48.487 [info] [Views] Added views:workbench.view.search in workbench.view.search
+2025-04-05 09:44:48.488 [info] [Views] Added views:workbench.scm in workbench.view.scm
+2025-04-05 09:44:48.488 [info] [Views] Added views:workbench.panel.markers.view in workbench.panel.markers
+2025-04-05 09:44:48.488 [info] [Views] Added views:workbench.panel.output in workbench.panel.output
+2025-04-05 09:44:48.488 [info] [Views] Added views:terminal in terminal
+2025-04-05 09:44:48.488 [info] [Views] Added views:timeline in workbench.view.explorer
+2025-04-05 09:44:48.488 [info] [Views] Added views:workbench.explorer.fileView in workbench.view.explorer
+2025-04-05 09:44:48.868 [info] [Window] Started local extension host with pid 11656.
+2025-04-05 09:44:48.974 [info] [Views] Added views:workbench.debug.welcome in workbench.view.debug
+2025-04-05 09:44:50.116 [info] [Cloud Changes] Prompting to enable cloud changes, has application previously launched from Continue On flow: false
+2025-04-05 09:44:51.173 [info] [Views] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2025-04-05 09:44:51.369 [info] [Window] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-05 09:44:53.547 [info] [Views] Added views:workbench.panel.repl.view in workbench.panel.repl
+2025-04-05 09:44:54.324 [info] [Window] Auto updating outdated extensions. ms-python.debugpy, ms-python.python
+2025-04-05 09:44:54.878 [info] [Window] [perf] Render performance baseline is 15ms
+2025-04-05 09:44:55.211 [info] [Views] Added views:workbench.view.testing in workbench.view.extension.test
+2025-04-05 09:44:55.338 [info] [Window] Auto updating extension ms-python.debugpy
+2025-04-05 09:44:55.339 [info] [Window] Auto updating extension ms-python.python
+2025-04-05 09:44:58.243 [info] [Window] Extension host (LocalProcess pid: 11656) is unresponsive.
+2025-04-05 09:45:00.782 [info] [Python] Experiment 'pythonRecommendTensorboardExt' is active
+2025-04-05 09:45:00.783 [info] [Python] Experiment 'pythonSurveyNotification' is active
+2025-04-05 09:45:00.783 [info] [Python] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-04-05 09:45:00.783 [info] [Python] Native locator: Refresh started
+2025-04-05 09:45:00.783 [info] [Python] > pyenv which python
+2025-04-05 09:45:00.783 [info] [Python] cwd: .
+2025-04-05 09:45:00.784 [info] [Python Locator] Starting Python Locator c:\Users\mepan\.vscode\extensions\ms-python.python-2025.2.0-win32-x64\python-env-tools\bin\pet.exe server
+2025-04-05 09:45:00.786 [warning] [Python Locator] Failed to open HKLM\Software\Python, Os { code: 2, kind: NotFound, message: "The system cannot find the file specified." }
+2025-04-05 09:45:00.788 [info] [Python Locator] Discovered env: C:\Users\mepan\AppData\Local\Programs\Python\Python313\python.exe
+2025-04-05 09:45:00.807 [info] [Python Locator] Discovered env: C:\Users\mepan\Desktop\login\.venv\Scripts\python.exe
+2025-04-05 09:45:00.822 [info] [Python Locator] Locator Conda took 1.4356778s
+2025-04-05 09:45:00.822 [info] [Python Locator] Locator PipEnv took 1.5435ms
+2025-04-05 09:45:00.823 [info] [Python Locator] Locator Pixi took 228.7µs
+2025-04-05 09:45:00.823 [info] [Python Locator] Locator Poetry took 4.4893ms
+2025-04-05 09:45:00.824 [info] [Python Locator] Locator PyEnv took 1.1555ms
+2025-04-05 09:45:00.825 [info] [Python Locator] Locator Venv took 89.4µs
+2025-04-05 09:45:00.825 [info] [Python Locator] Locator VirtualEnv took 143.8µs
+2025-04-05 09:45:00.825 [info] [Python Locator] Locator VirtualEnvWrapper took 461.2µs
+2025-04-05 09:45:00.825 [info] [Python Locator] Locator WindowsRegistry took 7.2271ms
+2025-04-05 09:45:00.825 [info] [Python Locator] Locator WindowsStore took 1.1825ms
+2025-04-05 09:45:00.825 [info] [Python Locator] Locator GlobalVirtualEnvs took 901.5µs
+2025-04-05 09:45:00.825 [info] [Python Locator] Locator Locators took 1.4361109s
+2025-04-05 09:45:00.825 [info] [Python Locator] Locator Path took 41.3574ms
+2025-04-05 09:45:00.825 [info] [Python Locator] Locator Workspaces took 29.2224ms
+2025-04-05 09:45:00.825 [info] [Python Locator] Refresh completed in 1436ms
+2025-04-05 09:45:00.826 [info] [Python Locator] Resolved Python Environment C:\Users\mepan\Desktop\login\.venv\Scripts\python.exe
+2025-04-05 09:45:00.829 [info] [Python] Python interpreter path: .\.venv\Scripts\python.exe
+2025-04-05 09:45:00.834 [info] [Python Locator] Resolved C:\Users\mepan\Desktop\login\.venv\Scripts\python.exe
+2025-04-05 09:45:00.835 [info] [Python] Native locator: Refresh finished in 6810 ms
+2025-04-05 09:45:01.289 [warning] [Window] [perf] Renderer reported VERY LONG TASK (1281ms), starting profiling session '86930f34-dda6-4504-91c5-aaa1ed9e4775'
+2025-04-05 09:45:01.335 [info] [Window] Extension host (LocalProcess pid: 11656) is responsive.
+2025-04-05 09:45:02.758 [info] [Python] > conda info --json
+2025-04-05 09:45:03.239 [info] [Python] > & ./.venv/Scripts/Activate.ps1 ; echo 'e8b39361-0157-4923-80e1-22d70d46dee6' ; python ~/.vscode/extensions/ms-python.python-2025.2.0-win32-x64/python_files/printEnvVariables.py
+2025-04-05 09:45:03.239 [info] [Python] shell: powershell
+2025-04-05 09:45:03.550 [info] [Python Language Server] [Info  - 9:45:03 AM] (6412) Server root directory: file:///c%3A/Users/mepan/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-04-05 09:45:03.551 [info] [Python Language Server] [Info  - 9:45:03 AM] (6412) Pylance language server 2025.4.1 (pyright version 1.1.398, commit 4f24eccc) starting
+2025-04-05 09:45:03.555 [info] [Python Language Server] [Info  - 9:45:03 AM] (6412) Starting service instance "login" for workspace "c:\Users\mepan\Desktop\login"
+2025-04-05 09:45:03.639 [info] [Python Language Server] [Info  - 9:45:03 AM] (6412) Setting environmentName for service "login": "3.13.2 (.venv venv)"
+2025-04-05 09:45:03.639 [info] [Python Language Server] [Info  - 9:45:03 AM] (6412) Setting pythonPath for service "login": "C:\Users\mepan\Desktop\login\.venv\Scripts\python.exe"
+2025-04-05 09:45:03.640 [info] [Python Language Server] [Info  - 9:45:03 AM] (6412) No include entries specified; assuming c:\Users\mepan\Desktop\login
+2025-04-05 09:45:03.641 [info] [Python Language Server] [Info  - 9:45:03 AM] (6412) Auto-excluding **/node_modules
+2025-04-05 09:45:03.641 [info] [Python Language Server] [Info  - 9:45:03 AM] (6412) Auto-excluding **/__pycache__
+2025-04-05 09:45:03.641 [info] [Python Language Server] [Info  - 9:45:03 AM] (6412) Auto-excluding **/.*
+2025-04-05 09:45:03.791 [info] [Python Language Server] [Info  - 9:45:03 AM] (6412) Assuming Python version 3.13.2.final.0
+2025-04-05 09:45:04.251 [info] [Python] > ~\AppData\Local\Programs\Python\Python313\python.exe ~/.vscode/extensions/ms-python.python-2025.2.0-win32-x64/python_files/printEnvVariables.py
+2025-04-05 09:45:04.251 [info] [Python] shell: powershell
+2025-04-05 09:45:04.252 [info] [Python Language Server] [Info  - 9:45:04 AM] (6412) Found 2 source files
+2025-04-05 09:45:04.277 [info] [Python Language Server] [Info  - 9:45:04 AM] (6412) Setting environmentName for service "login": "3.13.2 (.venv venv)"
+2025-04-05 09:45:04.277 [info] [Python Language Server] [Info  - 9:45:04 AM] (6412) Setting pythonPath for service "login": "C:\Users\mepan\Desktop\login\.venv\Scripts\python.exe"
+2025-04-05 09:45:04.277 [info] [Python Language Server] [Info  - 9:45:04 AM] (6412) No include entries specified; assuming c:\Users\mepan\Desktop\login
+2025-04-05 09:45:04.278 [info] [Python Language Server] [Info  - 9:45:04 AM] (6412) Auto-excluding **/node_modules
+2025-04-05 09:45:04.278 [info] [Python Language Server] [Info  - 9:45:04 AM] (6412) Auto-excluding **/__pycache__
+2025-04-05 09:45:04.279 [info] [Python Language Server] [Info  - 9:45:04 AM] (6412) Auto-excluding **/.*
+2025-04-05 09:45:04.405 [info] [Python Language Server] [Info  - 9:45:04 AM] (6412) Assuming Python version 3.13.2.final.0
+2025-04-05 09:45:04.638 [info] [Python Language Server] [Info  - 9:45:04 AM] (6412) Found 2 source files
+2025-04-05 09:45:04.755 [info] [Python] Prepending environment variable PATH in collection with c:\Users\mepan\.vscode\extensions\ms-python.python-2025.2.0-win32-x64\python_files\deactivate\powershell;C:\Users\mepan\Desktop\login\.venv\Scripts; {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-04-05 09:45:04.755 [info] [Python] Setting environment variable VIRTUAL_ENV in collection to C:\Users\mepan\Desktop\login\.venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-04-05 09:45:04.755 [info] [Python] Setting environment variable VIRTUAL_ENV_PROMPT in collection to .venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-04-05 09:45:04.756 [info] [Python] Send text to terminal: & C:/Users/mepan/AppData/Local/Programs/Python/Python313/python.exe c:\Users\mepan\.vscode\extensions\ms-python.python-2025.2.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\mepan\.vscode\extensions\ms-python.python-2025.2.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+2025-04-05 09:45:05.238 [info] [Python Language Server] [Info  - 9:45:05 AM] (6412) BG: Priority queue background worker(2) root directory: file:///c%3A/Users/mepan/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-04-05 09:45:05.238 [info] [Python Language Server] [Info  - 9:45:05 AM] (6412) BG: Priority queue background worker(2) started
+2025-04-05 09:45:06.191 [info] [Python Language Server] [Info  - 9:45:06 AM] (6412) BG: Indexer background runner(3) root directory: file:///c%3A/Users/mepan/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (index)
+2025-04-05 09:45:06.191 [info] [Python Language Server] [Info  - 9:45:06 AM] (6412) BG: Indexing(3) started
+2025-04-05 09:45:08.088 [info] [Python Language Server] [Info  - 9:45:08 AM] (6412) BG: scanned(3) 42 files over 1 exec env
+2025-04-05 09:45:08.482 [info] [Python Language Server] [Info  - 9:45:08 AM] (6412) BG: indexed(3) 42 files over 1 exec env
+2025-04-05 09:45:08.500 [info] [Python Language Server] [Info  - 9:45:08 AM] (6412) BG: Indexing finished(3).
+2025-04-05 09:45:13.309 [info] [Python Language Server] (Client) The existing extension didn't exit within 10 seconds. New instance will start, but you might encounter issues.
+2025-04-05 09:45:13.309 [info] [Python Language Server] (Client) Pylance async client (2025.4.1) started with python extension (2025.2.0)
+2025-04-05 09:45:13.310 [info] [Python] Starting Pylance language server.
+2025-04-05 09:45:58.828 [warning] [Window] [perf] Renderer reported VERY LONG TASK (168ms), starting profiling session 'f53b1fcb-20b9-455d-8a25-f9d2ab5a6aef'
+2025-04-05 09:46:04.206 [info] [Python] Discover tests for workspace name: undefined - uri: c:\Users\mepan\AppData\Roaming\Code\User\settings.json
+2025-04-05 09:46:25.667 [info] [Python] Discover tests for workspace name: undefined - uri: c:\Users\mepan\AppData\Roaming\Code\User\settings.json
+2025-04-05 09:46:35.196 [info] [Views] Removed views:workbench.view.testing from workbench.view.extension.test
+2025-04-05 09:46:35.210 [error] [Window] Cannot register two commands with the same id: _workbench.openUserSettingsEditor: Error: Cannot register two commands with the same id: _workbench.openUserSettingsEditor
+    at A (vscode-file://vscode-app/c:/Users/mepan/Desktop/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:34:31760)
+    at t (vscode-file://vscode-app/c:/Users/mepan/Desktop/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1864:81497)
+    at Wse.value (vscode-file://vscode-app/c:/Users/mepan/Desktop/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1864:81817)
+    at E.B (vscode-file://vscode-app/c:/Users/mepan/Desktop/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at E.C (vscode-file://vscode-app/c:/Users/mepan/Desktop/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at E.fire (vscode-file://vscode-app/c:/Users/mepan/Desktop/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at aqs.updateCurrentProfile (vscode-file://vscode-app/c:/Users/mepan/Desktop/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3211:89449)
+    at UGe.z (vscode-file://vscode-app/c:/Users/mepan/Desktop/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1840:76868)
+2025-04-05 09:46:35.583 [info] [Window] Started local extension host with pid 192.
+2025-04-05 09:46:36.020 [info] [Views] Removed views:workbench.panel.repl.view from workbench.panel.repl
+2025-04-05 09:46:36.211 [info] [Views] Added views:workbench.panel.repl.view in workbench.panel.repl
+2025-04-05 09:46:43.547 [info] [Window] Importing Profile (Untitled): No settings to apply...
+2025-04-05 09:46:43.554 [info] [Window] Importing Profile (Untitled): No keybindings to apply...
+2025-04-05 09:46:43.563 [info] [Window] Importing Profile (Untitled): No tasks to apply...
+2025-04-05 09:47:10.041 [error] [Window] Cannot read properties of undefined (reading 'handle'): TypeError: Cannot read properties of undefined (reading 'handle')
+    at Object.getId (vscode-file://vscode-app/c:/Users/mepan/Desktop/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3186:80827)
+    at Wf.D (vscode-file://vscode-app/c:/Users/mepan/Desktop/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:414:32167)
+    at Wf.C (vscode-file://vscode-app/c:/Users/mepan/Desktop/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:414:29177)
+    at Wf.updateChildren (vscode-file://vscode-app/c:/Users/mepan/Desktop/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:414:28950)
+    at Wse.value (vscode-file://vscode-app/c:/Users/mepan/Desktop/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3186:82259)
+    at E.B (vscode-file://vscode-app/c:/Users/mepan/Desktop/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at E.C (vscode-file://vscode-app/c:/Users/mepan/Desktop/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at E.fire (vscode-file://vscode-app/c:/Users/mepan/Desktop/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at Wse.value (vscode-file://vscode-app/c:/Users/mepan/Desktop/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3186:44021)
+    at E.B (vscode-file://vscode-app/c:/Users/mepan/Desktop/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)

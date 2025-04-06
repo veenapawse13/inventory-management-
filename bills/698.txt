@@ -1,0 +1,31 @@
+		**WELCOME CUSTOMER**
+
+Bill Number: 698
+Customer Name: rtahuhu
+Customer phone Number: 122334414
+==================================================Product		Quantity		Price
+==================================================
+Bath Soap		-1		-20 Rs
+Face cream		-1		-50 Rs
+Face Wash		-1		-100 Rs
+Hair Spary		-1		-150 Rs
+Hair Gel		-1		-80 Rs
+Rice		-1		-30 Rs
+Daal		-1		-100 Rs
+Oil		-1		-120 Rs
+Spices		-1		-50 Rs
+Sugar		-1		-140 Rs
+Wheat		-1		-80 Rs
+Maaza		-1		-30 Rs
+Pepsi		-1		-100 Rs
+Sprite		-1		-120 Rs
+Limcas		-1		-50 Rs
+Frooti		-1		-140 Rs
+Coco		-1		-80 Rs
+==================================================
+Cosmetic Tax				-55.199999999999996 Rs
+Grocery Tax				-26.0 Rs
+Drinks Tax				-36.400000000000006 Rs
+
+ Total-Bill				-1617.6000000000001
+==================================================

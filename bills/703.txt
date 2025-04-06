@@ -1,0 +1,17 @@
+		**WELCOME CUSTOMER**
+
+Bill Number: 703
+Customer Name: vee
+Customer phone Number: 23s2
+==================================================Product		Quantity		Price
+==================================================
+Hair Spary		1		150 Rs
+Spices		1		50 Rs
+Frooti		1		140 Rs
+==================================================
+Cosmetic Tax				18.0 Rs
+Grocery Tax				2.5 Rs
+Drinks Tax				9.8 Rs
+
+ Total-Bill				370.3
+==================================================

@@ -1,0 +1,18 @@
+		**WELCOME CUSTOMER**
+
+Bill Number: 981
+Customer Name: veena
+Customer phone Number: 9876543456
+==================================================Product		Quantity		Price
+==================================================
+Hair Spary		2		300 Rs
+Daal		1		100 Rs
+Sugar		2		280 Rs
+Sprite		1		120 Rs
+==================================================
+Cosmetic Tax				36.0 Rs
+Grocery Tax				19.0 Rs
+Drinks Tax				8.4 Rs
+
+ Total-Bill				863.4
+==================================================

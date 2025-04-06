@@ -1,0 +1,17 @@
+		**WELCOME CUSTOMER**
+
+Bill Number: 549
+Customer Name: sihe
+Customer phone Number: khota
+==================================================Product		Quantity		Price
+==================================================
+Hair Gel		2		160 Rs
+Sugar		2		280 Rs
+Limcas		2		100 Rs
+==================================================
+Cosmetic Tax				19.2 Rs
+Grocery Tax				14.0 Rs
+Drinks Tax				7.000000000000001 Rs
+
+ Total-Bill				580.2
+==================================================

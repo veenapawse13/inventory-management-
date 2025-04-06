@@ -1,0 +1,17 @@
+		**WELCOME CUSTOMER**
+
+Bill Number: 781
+Customer Name: iujklm
+Customer phone Number: 7877
+==================================================Product		Quantity		Price
+==================================================
+Hair Gel		9		720 Rs
+Spices		1		50 Rs
+Frooti		9		1260 Rs
+==================================================
+Cosmetic Tax				86.39999999999999 Rs
+Grocery Tax				2.5 Rs
+Drinks Tax				88.2 Rs
+
+ Total-Bill				2207.1
+==================================================
